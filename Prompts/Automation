@@ -1,0 +1,10 @@
+Write a Playwright test case in C# that verifies the login functionality using valid credentials.
+Acceptance Criteria:
+
+User enters correct email and password.
+
+Clicks the "Login" button.
+
+User is redirected to the dashboard.
+
+A welcome message appears with the username.
